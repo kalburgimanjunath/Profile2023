@@ -11,7 +11,7 @@ const seo = {
   description:
     "FUll Stack Developer | Block chain Expert",
   og: {
-    title: "Albert Habin Portfolio",
+    title: "Wesley Clark Portfolio",
     type: "website",
     url: "http://alberthathidara.com/",
   },
@@ -19,15 +19,15 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Albert Habin",
-  logo_name: "Albert Habin",
-  nickname: "JeszaAS",
+  title: "Wesley Clark",
+  logo_name: "Wesley Clark",
+  nickname: "RainbowSun",
   subTitle:
     "FUll Stack Developer | Block chain Expert",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/BritnessDev",
-  githubProfile: "https://github.com/BritnessDev",
+  portfolio_repository: "https://github.com/RainbowSunDev",
+  githubProfile: "https://github.com/RainbowSunDev",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/BritnessDev",
+    link: "https://github.com/RainbowSunDev",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -54,13 +54,13 @@ const socialMediaLinks = [
   },
   {
     name: "Telegram",
-    link: "https://t.me/BritnessDev",
+    link: "https://t.me/RainbowSunDev",
     fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
   {
     name: "Skype",
-    link: "https://t.me/BritnessDev",
+    link: "https://t.me/RainbowSunDev",
     fontAwesomeIcon: "fa-skype", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "Blue", // Reference https://simpleicons.org/?q=instagram
   },
@@ -350,17 +350,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Hamilton School of Careers & Institute of Technology",
+      subtitle: "M.S. in Computer Science",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      duration: "2005 - 2010",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.hamiltonschoolofcareers.ca/",
     },
   ],
 };
@@ -490,36 +490,41 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "Senior Full stack Developer",
+          company: "Boyle",
+          company_url: "https://boyle.com/",
           logo_path: "legato_logo.png",
           duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          location: "San Fransisco, CA",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Boyle is an international Technology and Management Consulting Group "+
+            "with a rapid pace development and innovative solutions for demanding"+
+            "projects. I work as a full-stack developer here, responsible for building"+
+            "deploying and maintaining internal web applications.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          title: "Full Stack Developer",
+          company: "Lauzon",
+          company_url: "https://lauzonflooring.com/",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          duration: "2013 - 2018",
+          location: "San Fransisco, CA",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Lauzon is a universal digital loyalty program that offers unique and fun"+
+            "rewards at the places you love. \n Hired, trained and lead Agile team of 7 full-stack developers.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          title: "Solution Architect",
+          company: "Keeling Group",
+          company_url: "http://www.keelingconsulting.com/",
           logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          duration: "2010 - 2013",
+          location: "Palo Alto, CA",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Keeling Group is a leading Digital Product Studio in California, helping"+
+            "companies to thrive on mobile apps, the web, VR/AR and IoT.",
           color: "#fc1f20",
         },
       ],
@@ -637,21 +642,21 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, Full-Stack, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://alberthathidara.wordpress.com",
+    link: "javascript:void(0);",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Budowlanych 48/42, 63-157 Mikołów",
+      " Rue Magnan,Hamilton, qc, Canada",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/d/viewer?mid=1iOuLbw9_GB6ZBs8pg61OnElHzQE&hl=en_US",
+    location_map_link: "https://www.google.com/maps/@43.2082365,-79.8651724,18.5z",
   },
   phoneSection: {
     title: "Phone Number",
