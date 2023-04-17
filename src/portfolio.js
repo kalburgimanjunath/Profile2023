@@ -632,7 +632,7 @@ const contactPageData = {
     subtitle:
       " #189 Gokul Road Ravi nagar,Hubli",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/@43.2082365,-79.8651724,18.5z",
+    location_map_link: "https://www.google.com/maps/@15.3530308,75.108215,17z",
   },
   phoneSection: {
     title: "Phone Number",
