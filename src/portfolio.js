@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Albert's Portfolio",
+  title: "Manjunath's Portfolio",
   description:
-    "FUll Stack Developer | Block chain Expert",
+    "FUll Stack Developer",
   og: {
-    title: "Wesley Clark Portfolio",
+    title: "Manjunath kalburgi Portfolio",
     type: "website",
-    url: "http://alberthathidara.com/",
+    url: "http://manjunathkalburgi.netlify.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Wesley Clark",
-  logo_name: "Wesley Clark",
-  nickname: "RainbowSun",
+  title: "Manjunath Kalburgi",
+  logo_name: "Manjunath Kalburgi",
+  nickname: "Manjunath",
   subTitle:
-    "FUll Stack Developer | Block chain Expert",
+    "FUll Stack Developer",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/RainbowSunDev",
-  githubProfile: "https://github.com/RainbowSunDev",
+    "",
+  portfolio_repository: "https://github.com/kalburgimanjunath",
+  githubProfile: "https://github.com/kalburgimanjunath",
 };
 
 const socialMediaLinks = [
@@ -42,25 +42,25 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/RainbowSunDev",
+    link: "https://github.com/manjunathkalburgi",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Gmail",
-    link: "thsbluehsg@gmail.com",
+    link: "manjunathkalburgi@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Telegram",
-    link: "https://t.me/RainbowSunDev",
+    link: "https://t.me/manjunathk",
     fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
   {
     name: "Skype",
-    link: "https://t.me/RainbowSunDev",
+    link: "https://t.me/manjunathkalburgi",
     fontAwesomeIcon: "fa-skype", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "Blue", // Reference https://simpleicons.org/?q=instagram
   },
@@ -350,17 +350,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Hamilton School of Careers & Institute of Technology",
-      subtitle: "M.S. in Computer Science",
+      title: "Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology",
+      subtitle: "Bachelor's degree, in Computer Science",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2005 - 2010",
+      alt_name: "Sri Venkappa M. Agadi College",
+      duration: "2007 - 2010",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in state.",
       ],
-      website_link: "https://www.hamiltonschoolofcareers.ca/",
+      website_link: "https://agadiengcollege.com/",
+    },
+    {
+      title: "KLE College of Engineering & Technology",
+      subtitle: "High School Diploma, Computer Science",
+      logo_path: "iiitk_logo.png",
+      alt_name: "Sri Venkappa M. Agadi Colleg",
+      duration: "2003 - 2006",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in state.",
+      ],
+      website_link: "https://klecimpoly.org/",
     },
   ],
 };
@@ -490,134 +503,97 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Senior Full stack Developer",
-          company: "Boyle",
-          company_url: "https://boyle.com/",
+          title: "Software Architect",
+          company: "Bcforward",
+          company_url: "https://www.quesscorp.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "San Fransisco, CA",
+          duration: "Oct 2022 - PRESENT",
+          location: "PAN, India",
           description:
-            "Boyle is an international Technology and Management Consulting Group "+
-            "with a rapid pace development and innovative solutions for demanding"+
-            "projects. I work as a full-stack developer here, responsible for building"+
-            "deploying and maintaining internal web applications.",
+            "Front-end development and architect solution using (HTML5, CSS3, MDBootstrap,LESS,JavaScript Libraries React16 Advance level,Redux, ES6) and GraphQL. "+
+            "Performance testing & optimisation.UI testing using Jest, Jasmine and Karma "+
+            "New components developed and provide Architectural recommendations. "+
+            "Lead many sprint events and teams in (planning, refinements, retrospectives, demos). "+
+            "Worked with a multidisciplinary team to fulfill the functional and non-functional requirements.",
           color: "#0879bf",
-        },
+        }, 
         {
-          title: "Full Stack Developer",
-          company: "Lauzon",
-          company_url: "https://lauzonflooring.com/",
-          logo_path: "muffito_logo.png",
-          duration: "2013 - 2018",
-          location: "San Fransisco, CA",
+          title: "Technical Architect",
+          company: "Quess Corp Limited",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Dec 2020 - Aug 2021",
+          location: "Bangalore, India",
           description:
-            "Lauzon is a universal digital loyalty program that offers unique and fun"+
-            "rewards at the places you love. \n Hired, trained and lead Agile team of 7 full-stack developers.",
-          color: "#9b1578",
-        },
+            "Front-end development and architect solution using (HTML5, CSS3, MDBootstrap,LESS,JavaScript Libraries React16 Advance level,Redux, ES6) and GraphQL. "+
+            "Performance testing & optimisation.UI testing using Jest, Jasmine and Karma "+
+            "New components developed and provide Architectural recommendations. "+
+            "Lead many sprint events and teams in (planning, refinements, retrospectives, demos). "+
+            "Worked with a multidisciplinary team to fulfill the functional and non-functional requirements.",
+          color: "#0879bf",
+        }, 
         {
-          title: "Solution Architect",
-          company: "Keeling Group",
-          company_url: "http://www.keelingconsulting.com/",
-          logo_path: "freecopy_logo.png",
-          duration: "2010 - 2013",
-          location: "Palo Alto, CA",
+          title: "Technical Lead",
+          company: "Pure Software, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Nov 2019 - Aug 2020",
+          location: "Bangalore, India",
           description:
-            "Keeling Group is a leading Digital Product Studio in California, helping"+
-            "companies to thrive on mobile apps, the web, VR/AR and IoT.",
-          color: "#fc1f20",
-        },
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },   
+        {
+          title: "Tech Lead ",
+          company: "Honeywell Technology Solutions Lab, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Oct 2013 - Sept 2019",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },  
+        {
+          title: "Junior Programmer ",
+          company: "EDC Creative Technology Solutions, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Sept 2011 - - Sept 2013",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },    
+        {
+          title: "Software Engineer",
+          company: "Savithru Technology, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Mar 2011 - Aug 2011",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },   
+        {
+          title: "Trainee Software Engineer",
+          company: "Globals Inc, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Mar 2011 - Aug 2011",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },          
       ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-          color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
-        },
-      ],
-    },
+    },   
   ],
 };
 
@@ -640,7 +616,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "4.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, Full-Stack, Android, Cloud and Opensource Development.",
   },
@@ -648,19 +624,19 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-      link: "https://wordpress.org/",
+      link: "https://kalburgimanjunath.github.io/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      " Rue Magnan,Hamilton, qc, Canada",
+      " #189 Gokul Road Ravi nagar,Hubli",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/@43.2082365,-79.8651724,18.5z",
+    location_map_link: "https://www.google.com/maps/@15.3530308,75.108215,17z",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+48 902922851",
+    subtitle: "+91 9986407307",
   },
 };
 
