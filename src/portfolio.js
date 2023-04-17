@@ -503,12 +503,12 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Senior Full stack Developer",
-          company: "Boyle",
-          company_url: "https://boyle.com/",
+          title: "Technical Architect",
+          company: "Quess Corp Limited",
+          company_url: "https://www.quesscorp.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "San Fransisco, CA",
+          duration: "Dec 2020 - Aug 2021",
+          location: "Bangalore, India",
           description:
             "Boyle is an international Technology and Management Consulting Group "+
             "with a rapid pace development and innovative solutions for demanding"+
