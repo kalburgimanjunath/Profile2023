@@ -510,10 +510,8 @@ const experience = {
           duration: "Dec 2020 - Aug 2021",
           location: "Bangalore, India",
           description:
-            "Boyle is an international Technology and Management Consulting Group "+
-            "with a rapid pace development and innovative solutions for demanding"+
-            "projects. I work as a full-stack developer here, responsible for building"+
-            "deploying and maintaining internal web applications.",
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
           color: "#0879bf",
         },
         {
