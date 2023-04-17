@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Albert's Portfolio",
+  title: "Manjunath's Portfolio",
   description:
-    "FUll Stack Developer | Block chain Expert",
+    "FUll Stack Developer",
   og: {
-    title: "Wesley Clark Portfolio",
+    title: "Manjunath kalburgi Portfolio",
     type: "website",
-    url: "http://alberthathidara.com/",
+    url: "http://manjunathkalburgi.netlify.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Wesley Clark",
-  logo_name: "Wesley Clark",
-  nickname: "RainbowSun",
+  title: "Manjunath Kalburgi",
+  logo_name: "Manjunath Kalburgi",
+  nickname: "Manjunath",
   subTitle:
-    "FUll Stack Developer | Block chain Expert",
+    "FUll Stack Developer",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "",
   portfolio_repository: "https://github.com/RainbowSunDev",
-  githubProfile: "https://github.com/RainbowSunDev",
+  githubProfile: "",
 };
 
 const socialMediaLinks = [
@@ -42,25 +42,25 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/RainbowSunDev",
+    link: "https://github.com/manjunathkalburgi",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Gmail",
-    link: "thsbluehsg@gmail.com",
+    link: "manjunathkalburgi@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Telegram",
-    link: "https://t.me/RainbowSunDev",
+    link: "https://t.me/manjunathk",
     fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
   {
     name: "Skype",
-    link: "https://t.me/RainbowSunDev",
+    link: "https://t.me/manjunathkalburgi",
     fontAwesomeIcon: "fa-skype", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "Blue", // Reference https://simpleicons.org/?q=instagram
   },
@@ -640,7 +640,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, Full-Stack, Android, Cloud and Opensource Development.",
   },
@@ -654,13 +654,13 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      " Rue Magnan,Hamilton, qc, Canada",
+      " #189 Gokul Road Ravi nagar,Hubli",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://www.google.com/maps/@43.2082365,-79.8651724,18.5z",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+48 902922851",
+    subtitle: "+91 9986407307",
   },
 };
 
