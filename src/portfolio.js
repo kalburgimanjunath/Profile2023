@@ -362,6 +362,19 @@ const degrees = {
       ],
       website_link: "https://agadiengcollege.com/",
     },
+    {
+      title: "KLE College of Engineering & Technology",
+      subtitle: "High School Diploma, Computer Science",
+      logo_path: "iiitk_logo.png",
+      alt_name: "Sri Venkappa M. Agadi Colleg",
+      duration: "2003 - 2006",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in state.",
+      ],
+      website_link: "https://klecimpoly.org/",
+    },
   ],
 };
 
