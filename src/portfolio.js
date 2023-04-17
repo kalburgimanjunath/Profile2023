@@ -350,17 +350,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Hamilton School of Careers & Institute of Technology",
-      subtitle: "M.S. in Computer Science",
+      title: "Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology",
+      subtitle: "Bachelor's degree, Computer Science",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2005 - 2010",
+      alt_name: "Sri Venkappa M. Agadi Colleg",
+      duration: "2007 - 2010",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in state.",
       ],
-      website_link: "https://www.hamiltonschoolofcareers.ca/",
+      website_link: "https://agadiengcollege.com/",
     },
   ],
 };
@@ -420,25 +420,7 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
       alt_name: "IBM",
       color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
+    },    
     {
       title: "Fullstack Development",
       subtitle: "- Jogesh Muppala",
@@ -447,25 +429,7 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
       alt_name: "Coursera",
       color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
+    },    
     {
       title: "Cloud Architecture",
       subtitle: "- Qwiklabs",
@@ -483,36 +447,38 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Experienced in Physical Security Domain and enterprise software development , Clinical Trials,FMCG at Oracle, Honeywell R&D Centre,3M India, Bangalore. Lead Frontend develpment for group of Honeywell ACS Software CoE,Oracle,3M India, with responsibility to drive software revenue growth and market differentiation by realizing cutting edge technologies into products and solutions. Video domain expertise as design for key software applications for video surveillance product lines in a true global engineering development environment. Leading design, development & mentoring focus for a multi-disciplinary team. Trained in highly disciplined software development process aligned to CMMi, Six Sigma & Honeywell Operating System (HOS) concepts.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Senior Full stack Developer",
-          company: "Boyle",
-          company_url: "https://boyle.com/",
+          title: "Technical Architect",
+          company: "Bcforward",
+          company_url: "https://www.bcforward.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "San Fransisco, CA",
+          duration: "Oct 2022 - PRESENT",
+          location: "Bangalore,India",
           description:
-            "Boyle is an international Technology and Management Consulting Group "+
-            "with a rapid pace development and innovative solutions for demanding"+
-            "projects. I work as a full-stack developer here, responsible for building"+
-            "deploying and maintaining internal web applications.",
+            "Lighting design system architecture and frontend development"+
+            "Building highly customizable & fully functional Web Components"+
+            "Creating Accessible UI Components"+
+            "Member of Salesforce Design System team",
           color: "#0879bf",
         },
         {
-          title: "Full Stack Developer",
-          company: "Lauzon",
-          company_url: "https://lauzonflooring.com/",
-          logo_path: "muffito_logo.png",
-          duration: "2013 - 2018",
-          location: "San Fransisco, CA",
+          title: "Freelance Consultant",
+          company: "Multiple Clients",
+          company_url: "",
+          logo_path: "",
+          duration: "Aug 2021 - Oct 2022",
+          location: "Hubli,India",
           description:
-            "Lauzon is a universal digital loyalty program that offers unique and fun"+
-            "rewards at the places you love. \n Hired, trained and lead Agile team of 7 full-stack developers.",
+            "Front-end development using HTML5, CSS3,JavaScript Libraries,React16, ES6,React Native,Redux,React-Router,Serverless CMS,Airtable,Canva,figma etc."+
+            "Provide Digital Transformation Strategies and recommendations."+
+            "New components developed and provide Architectural recommendations."+
+            "Requirement analysis,Development,refactoring,code standardization, Performance testing & optimisation.",
           color: "#9b1578",
         },
         {
