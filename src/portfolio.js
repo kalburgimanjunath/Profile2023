@@ -505,10 +505,10 @@ const experience = {
             "Collaborate with Product Owner and User Experience team to define world class user experience."+
             "Requirement analysise,Development and code refactoring,code standardization",
           color: "#fc1f20",
-        },
-      ],
-    },    
-  ],
+        }
+      ]
+    }   
+  ]
 };
 
 // Projects Page
