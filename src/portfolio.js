@@ -540,6 +540,42 @@ const experience = {
             "Collaborate with Product Owner and User Experience team to define world class user experience. "+
             "Requirement analysise Development and code refactoring code standardization",            
           color: "#0879bf",
+        },  
+        {
+          title: "Junior Programmer ",
+          company: "EDC Creative Technology Solutions, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Sept 2011 - - Sept 2013",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },    
+        {
+          title: "Software Engineer",
+          company: "Savithru Technology, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Mar 2011 - Aug 2011",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
+        },   
+        {
+          title: "Trainee Software Engineer",
+          company: "Globals Inc, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Mar 2011 - Aug 2011",
+          location: "Bangalore, India",
+          description:
+            "Collaborate with Product Owner and User Experience team to define world class user experience. "+
+            "Requirement analysise Development and code refactoring code standardization",            
+          color: "#0879bf",
         },          
       ],
     },   
