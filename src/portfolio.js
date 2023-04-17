@@ -510,34 +510,25 @@ const experience = {
           duration: "Dec 2020 - Aug 2021",
           location: "Bangalore, India",
           description:
+            "Front-end development and architect solution using (HTML5, CSS3, MDBootstrap,LESS,JavaScript Libraries React16 Advance level,Redux, ES6) and GraphQL. "+
+            "Performance testing & optimisation.UI testing using Jest, Jasmine and Karma "+
+            "New components developed and provide Architectural recommendations. "+
+            "Lead many sprint events and teams in (planning, refinements, retrospectives, demos). "+
+            "Worked with a multidisciplinary team to fulfill the functional and non-functional requirements.",
+          color: "#0879bf",
+        }, 
+        {
+          title: "Technical Lead",
+          company: "Pure Software, Bangalore",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Dec 2020 - Aug 2021",
+          location: "Bangalore, India",
+          description:
             "Collaborate with Product Owner and User Experience team to define world class user experience. "+
             "Requirement analysise Development and code refactoring code standardization",            
           color: "#0879bf",
-        },
-        {
-          title: "Full Stack Developer",
-          company: "Lauzon",
-          company_url: "https://lauzonflooring.com/",
-          logo_path: "muffito_logo.png",
-          duration: "2013 - 2018",
-          location: "San Fransisco, CA",
-          description:
-            "Lauzon is a universal digital loyalty program that offers unique and fun"+
-            "rewards at the places you love. \n Hired, trained and lead Agile team of 7 full-stack developers.",
-          color: "#9b1578",
-        },
-        {
-          title: "Solution Architect",
-          company: "Keeling Group",
-          company_url: "http://www.keelingconsulting.com/",
-          logo_path: "freecopy_logo.png",
-          duration: "2010 - 2013",
-          location: "Palo Alto, CA",
-          description:
-            "Keeling Group is a leading Digital Product Studio in California, helping"+
-            "companies to thrive on mobile apps, the web, VR/AR and IoT.",
-          color: "#fc1f20",
-        },
+        },          
       ],
     },
     // {
