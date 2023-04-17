@@ -29,7 +29,7 @@ const greeting = {
   portfolio_repository: "https://github.com/kalburgimanjunath",
   githubProfile: "https://github.com/kalburgimanjunath/",
 };
-k
+
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
