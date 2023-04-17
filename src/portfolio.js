@@ -350,17 +350,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Hamilton School of Careers & Institute of Technology",
-      subtitle: "M.S. in Computer Science",
+      title: "Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology",
+      subtitle: "Bachelor's degree, in Computer Science",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2005 - 2010",
+      alt_name: "Sri Venkappa M. Agadi College",
+      duration: "2007 - 2010",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in state.",
       ],
-      website_link: "https://www.hamiltonschoolofcareers.ca/",
+      website_link: "https://agadiengcollege.com/",
     },
   ],
 };
