@@ -503,6 +503,21 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Software Architect",
+          company: "Bcforward",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "legato_logo.png",
+          duration: "Oct 2022 - PRESENT",
+          location: "PAN, India",
+          description:
+            "Front-end development and architect solution using (HTML5, CSS3, MDBootstrap,LESS,JavaScript Libraries React16 Advance level,Redux, ES6) and GraphQL. "+
+            "Performance testing & optimisation.UI testing using Jest, Jasmine and Karma "+
+            "New components developed and provide Architectural recommendations. "+
+            "Lead many sprint events and teams in (planning, refinements, retrospectives, demos). "+
+            "Worked with a multidisciplinary team to fulfill the functional and non-functional requirements.",
+          color: "#0879bf",
+        }, 
+        {
           title: "Technical Architect",
           company: "Quess Corp Limited",
           company_url: "https://www.quesscorp.com/",
