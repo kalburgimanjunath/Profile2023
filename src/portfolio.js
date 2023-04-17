@@ -26,8 +26,8 @@ const greeting = {
     "FUll Stack Developer",
   resumeLink:
     "",
-  portfolio_repository: "https://github.com/RainbowSunDev",
-  githubProfile: "",
+  portfolio_repository: "https://github.com/kalburgimanjunath",
+  githubProfile: "https://github.com/kalburgimanjunath",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/manjunathkalburgi",
+    link: "https://github.com/kalburgimanjunath",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
