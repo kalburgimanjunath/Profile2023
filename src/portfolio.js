@@ -503,18 +503,16 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Senior Full stack Developer",
-          company: "Boyle",
-          company_url: "https://boyle.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "San Fransisco, CA",
+          title: "Technical Architect",
+          company: "Quess Corp Limited",
+          company_url: "https://www.quesscorp.com/",
+          logo_path: "",
+          duration: "Dec 2020 - Aug 2021",
+          location: "Bangalore, India",
           description:
-            "Boyle is an international Technology and Management Consulting Group "+
-            "with a rapid pace development and innovative solutions for demanding"+
-            "projects. I work as a full-stack developer here, responsible for building"+
-            "deploying and maintaining internal web applications.",
-          color: "#0879bf",
+            "Collaborate with Product Owner and User Experience team to define world class user experience."+
+            "Requirement analysise,Development and code refactoring,code standardization",
+          color: "#fc1f20",
         },
         {
           title: "Full Stack Developer",
